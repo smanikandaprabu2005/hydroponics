@@ -1,0 +1,435 @@
+image,relative_path,condition,predicted_class,confidence
+0603192346_jpg.rf.34b01f05ec1f21bab08e051961d3a04a.jpg,0603192346_jpg.rf.34b01f05ec1f21bab08e051961d3a04a.jpg,unseen_test,Potassium Deficiency,0.9769
+b2f91e1d-f5c0-4dde-b9b7-fbe4da02a11f.png,b2f91e1d-f5c0-4dde-b9b7-fbe4da02a11f.png,unseen_test,Phosphorus Deficiency,0.5165
+calcium.jpg,calcium.jpg,unseen_test,Potassium Deficiency,0.5032
+download (1).jpg,download (1).jpg,unseen_test,Magnesium Deficiency,0.8201
+download (2).jpg,download (2).jpg,unseen_test,Magnesium Deficiency,0.7984
+download (3).jpg,download (3).jpg,unseen_test,Phosphorus Deficiency,0.9064
+download (4).jpg,download (4).jpg,unseen_test,Potassium Deficiency,0.6711
+download (5).jpg,download (5).jpg,unseen_test,Magnesium Deficiency,0.8933
+download.jpg,download.jpg,unseen_test,Healthy,0.254
+magnesium.jpg,magnesium.jpg,unseen_test,Phosphorus Deficiency,0.7249
+nitrogen.jpg,nitrogen.jpg,unseen_test,No Detection,0.0
+nitrogen2.jpg,nitrogen2.jpg,unseen_test,Potassium Deficiency,0.7964
+Screenshot 2026-09-04 124019.png,Screenshot 2026-09-04 124019.png,unseen_test,Calcium Deficiency,0.9719
+Screenshot 2026-09-04 124636.png,Screenshot 2026-09-04 124636.png,unseen_test,Potassium Deficiency,0.9719
+Screenshot 2026-09-04 130240.png,Screenshot 2026-09-04 130240.png,unseen_test,Nitrogen Deficiency,0.951
+Screenshot 2026-09-04 130646.png,Screenshot 2026-09-04 130646.png,unseen_test,Nitrogen Deficiency,0.9202
+Screenshot 2026-09-04 130710.png,Screenshot 2026-09-04 130710.png,unseen_test,Nitrogen Deficiency,0.9601
+k_1.png,FNNPK\-K\k_1.png,-K,Magnesium Deficiency,0.6455
+k_10.png,FNNPK\-K\k_10.png,-K,Magnesium Deficiency,0.4596
+k_11.png,FNNPK\-K\k_11.png,-K,No Detection,0.0
+k_12.png,FNNPK\-K\k_12.png,-K,Magnesium Deficiency,0.3899
+k_13.png,FNNPK\-K\k_13.png,-K,Magnesium Deficiency,0.6153
+k_14.png,FNNPK\-K\k_14.png,-K,Potassium Deficiency,0.5733
+k_15.png,FNNPK\-K\k_15.png,-K,Nitrogen Deficiency,0.6871
+k_16.png,FNNPK\-K\k_16.png,-K,Nitrogen Deficiency,0.9389
+k_17.png,FNNPK\-K\k_17.png,-K,Nitrogen Deficiency,0.9134
+k_18.png,FNNPK\-K\k_18.png,-K,Nitrogen Deficiency,0.8436
+k_19.png,FNNPK\-K\k_19.png,-K,Nitrogen Deficiency,0.5841
+k_2.png,FNNPK\-K\k_2.png,-K,Magnesium Deficiency,0.7083
+k_20.png,FNNPK\-K\k_20.png,-K,Nitrogen Deficiency,0.925
+k_21.png,FNNPK\-K\k_21.png,-K,Nitrogen Deficiency,0.9084
+k_22.png,FNNPK\-K\k_22.png,-K,Nitrogen Deficiency,0.7997
+k_23.png,FNNPK\-K\k_23.png,-K,Nitrogen Deficiency,0.846
+k_24.png,FNNPK\-K\k_24.png,-K,Nitrogen Deficiency,0.9539
+k_25.png,FNNPK\-K\k_25.png,-K,Potassium Deficiency,0.3447
+k_26.png,FNNPK\-K\k_26.png,-K,Nitrogen Deficiency,0.3936
+k_27.png,FNNPK\-K\k_27.png,-K,Nitrogen Deficiency,0.7104
+k_28.png,FNNPK\-K\k_28.png,-K,Potassium Deficiency,0.3914
+k_29.png,FNNPK\-K\k_29.png,-K,No Detection,0.0
+k_3.png,FNNPK\-K\k_3.png,-K,Magnesium Deficiency,0.4401
+k_30.png,FNNPK\-K\k_30.png,-K,Nitrogen Deficiency,0.9252
+k_31.png,FNNPK\-K\k_31.png,-K,Nitrogen Deficiency,0.6414
+k_32.png,FNNPK\-K\k_32.png,-K,Calcium Deficiency,0.7432
+k_33.png,FNNPK\-K\k_33.png,-K,Nitrogen Deficiency,0.3015
+k_34.png,FNNPK\-K\k_34.png,-K,No Detection,0.0
+k_35.png,FNNPK\-K\k_35.png,-K,Nitrogen Deficiency,0.5196
+k_36.png,FNNPK\-K\k_36.png,-K,No Detection,0.0
+k_37.png,FNNPK\-K\k_37.png,-K,Nitrogen Deficiency,0.4836
+k_38.png,FNNPK\-K\k_38.png,-K,Potassium Deficiency,0.673
+k_39.png,FNNPK\-K\k_39.png,-K,Potassium Deficiency,0.8752
+k_4.png,FNNPK\-K\k_4.png,-K,Phosphorus Deficiency,0.2969
+k_40.png,FNNPK\-K\k_40.png,-K,Potassium Deficiency,0.9
+k_41.png,FNNPK\-K\k_41.png,-K,Potassium Deficiency,0.6647
+k_42.png,FNNPK\-K\k_42.png,-K,Potassium Deficiency,0.6731
+k_43.png,FNNPK\-K\k_43.png,-K,No Detection,0.0
+k_44.png,FNNPK\-K\k_44.png,-K,Nitrogen Deficiency,0.7059
+k_45.png,FNNPK\-K\k_45.png,-K,Nitrogen Deficiency,0.744
+k_46.png,FNNPK\-K\k_46.png,-K,Nitrogen Deficiency,0.8111
+k_47.png,FNNPK\-K\k_47.png,-K,Nitrogen Deficiency,0.484
+k_48.png,FNNPK\-K\k_48.png,-K,Nitrogen Deficiency,0.4952
+k_49.png,FNNPK\-K\k_49.png,-K,Nitrogen Deficiency,0.3424
+k_5.png,FNNPK\-K\k_5.png,-K,No Detection,0.0
+k_50.png,FNNPK\-K\k_50.png,-K,Nitrogen Deficiency,0.6929
+k_51.png,FNNPK\-K\k_51.png,-K,Nitrogen Deficiency,0.8536
+k_52.png,FNNPK\-K\k_52.png,-K,Nitrogen Deficiency,0.7736
+k_53.png,FNNPK\-K\k_53.png,-K,Nitrogen Deficiency,0.7542
+k_54.png,FNNPK\-K\k_54.png,-K,Nitrogen Deficiency,0.4957
+k_55.png,FNNPK\-K\k_55.png,-K,Potassium Deficiency,0.2852
+k_56.png,FNNPK\-K\k_56.png,-K,No Detection,0.0
+k_57.png,FNNPK\-K\k_57.png,-K,Magnesium Deficiency,0.7986
+k_58.png,FNNPK\-K\k_58.png,-K,Calcium Deficiency,0.5636
+k_59.png,FNNPK\-K\k_59.png,-K,Potassium Deficiency,0.7289
+k_6.png,FNNPK\-K\k_6.png,-K,Magnesium Deficiency,0.6887
+k_60.png,FNNPK\-K\k_60.png,-K,Calcium Deficiency,0.593
+k_61.png,FNNPK\-K\k_61.png,-K,Potassium Deficiency,0.8748
+k_62.png,FNNPK\-K\k_62.png,-K,Phosphorus Deficiency,0.513
+k_63.png,FNNPK\-K\k_63.png,-K,Potassium Deficiency,0.5385
+k_64.png,FNNPK\-K\k_64.png,-K,Magnesium Deficiency,0.9125
+k_65.png,FNNPK\-K\k_65.png,-K,No Detection,0.0
+k_66.png,FNNPK\-K\k_66.png,-K,Potassium Deficiency,0.5385
+k_67.png,FNNPK\-K\k_67.png,-K,No Detection,0.0
+k_68.png,FNNPK\-K\k_68.png,-K,Calcium Deficiency,0.5636
+k_69.png,FNNPK\-K\k_69.png,-K,Magnesium Deficiency,0.7986
+k_7.png,FNNPK\-K\k_7.png,-K,Magnesium Deficiency,0.4642
+k_70.png,FNNPK\-K\k_70.png,-K,No Detection,0.0
+k_71.png,FNNPK\-K\k_71.png,-K,No Detection,0.0
+k_72.png,FNNPK\-K\k_72.png,-K,No Detection,0.0
+k_8.png,FNNPK\-K\k_8.png,-K,Magnesium Deficiency,0.4117
+k_9.png,FNNPK\-K\k_9.png,-K,No Detection,0.0
+n_1.png,FNNPK\-N\n_1.png,-N,Nitrogen Deficiency,0.7968
+n_10.png,FNNPK\-N\n_10.png,-N,No Detection,0.0
+n_11.png,FNNPK\-N\n_11.png,-N,Healthy,0.7271
+n_12.png,FNNPK\-N\n_12.png,-N,No Detection,0.0
+n_13.png,FNNPK\-N\n_13.png,-N,Nitrogen Deficiency,0.7584
+n_14.png,FNNPK\-N\n_14.png,-N,Nitrogen Deficiency,0.7208
+n_15.png,FNNPK\-N\n_15.png,-N,Nitrogen Deficiency,0.4722
+n_16.png,FNNPK\-N\n_16.png,-N,Nitrogen Deficiency,0.5471
+n_17.png,FNNPK\-N\n_17.png,-N,No Detection,0.0
+n_18.png,FNNPK\-N\n_18.png,-N,Potassium Deficiency,0.6598
+n_19.png,FNNPK\-N\n_19.png,-N,Calcium Deficiency,0.7916
+n_2.png,FNNPK\-N\n_2.png,-N,Nitrogen Deficiency,0.6552
+n_20.png,FNNPK\-N\n_20.png,-N,Healthy,0.4233
+n_21.png,FNNPK\-N\n_21.png,-N,No Detection,0.0
+n_22.png,FNNPK\-N\n_22.png,-N,Nitrogen Deficiency,0.4702
+n_23.png,FNNPK\-N\n_23.png,-N,No Detection,0.0
+n_24.png,FNNPK\-N\n_24.png,-N,Healthy,0.2802
+n_25.png,FNNPK\-N\n_25.png,-N,Magnesium Deficiency,0.5061
+n_26.png,FNNPK\-N\n_26.png,-N,Nitrogen Deficiency,0.9412
+n_27.png,FNNPK\-N\n_27.png,-N,Nitrogen Deficiency,0.9346
+n_28.png,FNNPK\-N\n_28.png,-N,Nitrogen Deficiency,0.8825
+n_29.png,FNNPK\-N\n_29.png,-N,Potassium Deficiency,0.8098
+n_3.png,FNNPK\-N\n_3.png,-N,Nitrogen Deficiency,0.3583
+n_30.png,FNNPK\-N\n_30.png,-N,Nitrogen Deficiency,0.8439
+n_31.png,FNNPK\-N\n_31.png,-N,No Detection,0.0
+n_32.png,FNNPK\-N\n_32.png,-N,No Detection,0.0
+n_33.png,FNNPK\-N\n_33.png,-N,Potassium Deficiency,0.5906
+n_34.png,FNNPK\-N\n_34.png,-N,Potassium Deficiency,0.6047
+n_35.png,FNNPK\-N\n_35.png,-N,No Detection,0.0
+n_36.png,FNNPK\-N\n_36.png,-N,Nitrogen Deficiency,0.3881
+n_37.png,FNNPK\-N\n_37.png,-N,No Detection,0.0
+n_38.png,FNNPK\-N\n_38.png,-N,Nitrogen Deficiency,0.3254
+n_39.png,FNNPK\-N\n_39.png,-N,No Detection,0.0
+n_4.png,FNNPK\-N\n_4.png,-N,Nitrogen Deficiency,0.5867
+n_40.png,FNNPK\-N\n_40.png,-N,No Detection,0.0
+n_41.png,FNNPK\-N\n_41.png,-N,No Detection,0.0
+n_42.png,FNNPK\-N\n_42.png,-N,Nitrogen Deficiency,0.5349
+n_43.png,FNNPK\-N\n_43.png,-N,Nitrogen Deficiency,0.4452
+n_44.png,FNNPK\-N\n_44.png,-N,Nitrogen Deficiency,0.3473
+n_45.png,FNNPK\-N\n_45.png,-N,No Detection,0.0
+n_46.png,FNNPK\-N\n_46.png,-N,No Detection,0.0
+n_47.png,FNNPK\-N\n_47.png,-N,No Detection,0.0
+n_48.png,FNNPK\-N\n_48.png,-N,Nitrogen Deficiency,0.9137
+n_49.png,FNNPK\-N\n_49.png,-N,Nitrogen Deficiency,0.4762
+n_5.png,FNNPK\-N\n_5.png,-N,Nitrogen Deficiency,0.8172
+n_50.png,FNNPK\-N\n_50.png,-N,Nitrogen Deficiency,0.5676
+n_51.png,FNNPK\-N\n_51.png,-N,Potassium Deficiency,0.5659
+n_52.png,FNNPK\-N\n_52.png,-N,No Detection,0.0
+n_53.png,FNNPK\-N\n_53.png,-N,Potassium Deficiency,0.4197
+n_54.png,FNNPK\-N\n_54.png,-N,No Detection,0.0
+n_55.png,FNNPK\-N\n_55.png,-N,Nitrogen Deficiency,0.2634
+n_56.png,FNNPK\-N\n_56.png,-N,Nitrogen Deficiency,0.9001
+n_57.png,FNNPK\-N\n_57.png,-N,Nitrogen Deficiency,0.8021
+n_58.png,FNNPK\-N\n_58.png,-N,Nitrogen Deficiency,0.6137
+n_59.png,FNNPK\-N\n_59.png,-N,Nitrogen Deficiency,0.9396
+n_7.png,FNNPK\-N\n_7.png,-N,No Detection,0.0
+n_8.png,FNNPK\-N\n_8.png,-N,Healthy,0.7243
+n_9.png,FNNPK\-N\n_9.png,-N,No Detection,0.0
+p1.png,FNNPK\-P\p1.png,-P,Calcium Deficiency,0.5699
+p10.png,FNNPK\-P\p10.png,-P,Magnesium Deficiency,0.5287
+p11.png,FNNPK\-P\p11.png,-P,Magnesium Deficiency,0.2656
+p12.png,FNNPK\-P\p12.png,-P,No Detection,0.0
+p13.png,FNNPK\-P\p13.png,-P,No Detection,0.0
+p14.png,FNNPK\-P\p14.png,-P,Potassium Deficiency,0.3582
+p15.png,FNNPK\-P\p15.png,-P,Nitrogen Deficiency,0.2893
+p16.png,FNNPK\-P\p16.png,-P,Magnesium Deficiency,0.86
+p17.png,FNNPK\-P\p17.png,-P,Magnesium Deficiency,0.7285
+p18.png,FNNPK\-P\p18.png,-P,Magnesium Deficiency,0.3558
+p19.png,FNNPK\-P\p19.png,-P,Calcium Deficiency,0.6963
+p2.png,FNNPK\-P\p2.png,-P,Nitrogen Deficiency,0.322
+p20.png,FNNPK\-P\p20.png,-P,Potassium Deficiency,0.3814
+p21.png,FNNPK\-P\p21.png,-P,No Detection,0.0
+p22.png,FNNPK\-P\p22.png,-P,Magnesium Deficiency,0.7245
+p23.png,FNNPK\-P\p23.png,-P,Calcium Deficiency,0.9039
+p24.png,FNNPK\-P\p24.png,-P,No Detection,0.0
+p25.png,FNNPK\-P\p25.png,-P,Magnesium Deficiency,0.7478
+p26.png,FNNPK\-P\p26.png,-P,Phosphorus Deficiency,0.5684
+p27.png,FNNPK\-P\p27.png,-P,Calcium Deficiency,0.8362
+p28.png,FNNPK\-P\p28.png,-P,No Detection,0.0
+p29.png,FNNPK\-P\p29.png,-P,Phosphorus Deficiency,0.5316
+p3.png,FNNPK\-P\p3.png,-P,Magnesium Deficiency,0.8613
+p30.png,FNNPK\-P\p30.png,-P,Magnesium Deficiency,0.8667
+p31.png,FNNPK\-P\p31.png,-P,No Detection,0.0
+p32.png,FNNPK\-P\p32.png,-P,No Detection,0.0
+p33.png,FNNPK\-P\p33.png,-P,Magnesium Deficiency,0.6229
+p34.png,FNNPK\-P\p34.png,-P,Magnesium Deficiency,0.7797
+p35.png,FNNPK\-P\p35.png,-P,Magnesium Deficiency,0.5381
+p36.png,FNNPK\-P\p36.png,-P,Magnesium Deficiency,0.5587
+p37.png,FNNPK\-P\p37.png,-P,Calcium Deficiency,0.4057
+p38.png,FNNPK\-P\p38.png,-P,Magnesium Deficiency,0.8388
+p39.png,FNNPK\-P\p39.png,-P,No Detection,0.0
+p4.png,FNNPK\-P\p4.png,-P,Magnesium Deficiency,0.7109
+p40.png,FNNPK\-P\p40.png,-P,Healthy,0.4416
+p43.png,FNNPK\-P\p43.png,-P,Potassium Deficiency,0.7311
+p44.png,FNNPK\-P\p44.png,-P,Potassium Deficiency,0.3908
+p45.png,FNNPK\-P\p45.png,-P,Healthy,0.3493
+p46.png,FNNPK\-P\p46.png,-P,Potassium Deficiency,0.3721
+p47.png,FNNPK\-P\p47.png,-P,Potassium Deficiency,0.5201
+p48.png,FNNPK\-P\p48.png,-P,Healthy,0.4413
+p49.png,FNNPK\-P\p49.png,-P,Healthy,0.9085
+p5.png,FNNPK\-P\p5.png,-P,No Detection,0.0
+p50.png,FNNPK\-P\p50.png,-P,Phosphorus Deficiency,0.5594
+p51.png,FNNPK\-P\p51.png,-P,Healthy,0.9131
+p52.png,FNNPK\-P\p52.png,-P,Healthy,0.8223
+p53.png,FNNPK\-P\p53.png,-P,Healthy,0.4089
+p54.png,FNNPK\-P\p54.png,-P,No Detection,0.0
+p55.png,FNNPK\-P\p55.png,-P,Calcium Deficiency,0.7054
+p56.png,FNNPK\-P\p56.png,-P,Calcium Deficiency,0.3407
+p57.png,FNNPK\-P\p57.png,-P,Phosphorus Deficiency,0.3228
+p58.png,FNNPK\-P\p58.png,-P,Potassium Deficiency,0.2847
+p59.png,FNNPK\-P\p59.png,-P,Phosphorus Deficiency,0.3145
+p6.png,FNNPK\-P\p6.png,-P,Magnesium Deficiency,0.6353
+p60.png,FNNPK\-P\p60.png,-P,Calcium Deficiency,0.2742
+p61.png,FNNPK\-P\p61.png,-P,Potassium Deficiency,0.4818
+p62.png,FNNPK\-P\p62.png,-P,Calcium Deficiency,0.3112
+p63.png,FNNPK\-P\p63.png,-P,Calcium Deficiency,0.6327
+p64.png,FNNPK\-P\p64.png,-P,Calcium Deficiency,0.812
+p65.png,FNNPK\-P\p65.png,-P,No Detection,0.0
+p66.png,FNNPK\-P\p66.png,-P,No Detection,0.0
+p67.png,FNNPK\-P\p67.png,-P,No Detection,0.0
+p68.png,FNNPK\-P\p68.png,-P,Calcium Deficiency,0.5243
+p7.png,FNNPK\-P\p7.png,-P,Magnesium Deficiency,0.6308
+p8.png,FNNPK\-P\p8.png,-P,Magnesium Deficiency,0.526
+p9.png,FNNPK\-P\p9.png,-P,No Detection,0.0
+fn1.png,FNNPK\FN\fn1.png,FN,Phosphorus Deficiency,0.2717
+fn10.png,FNNPK\FN\fn10.png,FN,No Detection,0.0
+fn11.png,FNNPK\FN\fn11.png,FN,No Detection,0.0
+fn12.png,FNNPK\FN\fn12.png,FN,Potassium Deficiency,0.5903
+fn2.png,FNNPK\FN\fn2.png,FN,Nitrogen Deficiency,0.2851
+fn3.png,FNNPK\FN\fn3.png,FN,Nitrogen Deficiency,0.438
+fn4.png,FNNPK\FN\fn4.png,FN,No Detection,0.0
+fn5.png,FNNPK\FN\fn5.png,FN,Nitrogen Deficiency,0.3734
+fn6.png,FNNPK\FN\fn6.png,FN,No Detection,0.0
+fn7.png,FNNPK\FN\fn7.png,FN,Nitrogen Deficiency,0.5652
+fn8.png,FNNPK\FN\fn8.png,FN,Nitrogen Deficiency,0.337
+fn9.png,FNNPK\FN\fn9.png,FN,No Detection,0.0
+H (0051).jpg,Lettuce disease\Healthy\H (0051).jpg,Healthy,Healthy,0.5675
+H (051).jpg,Lettuce disease\Healthy\H (051).jpg,Healthy,Healthy,0.6538
+H (10).jpg,Lettuce disease\Healthy\H (10).jpg,Healthy,Healthy,0.914
+H (100).jpg,Lettuce disease\Healthy\H (100).jpg,Healthy,Healthy,0.8501
+H (101).jpg,Lettuce disease\Healthy\H (101).jpg,Healthy,No Detection,0.0
+H (11).jpg,Lettuce disease\Healthy\H (11).jpg,Healthy,No Detection,0.0
+H (12).jpg,Lettuce disease\Healthy\H (12).jpg,Healthy,Healthy,0.676
+H (14).jpg,Lettuce disease\Healthy\H (14).jpg,Healthy,Potassium Deficiency,0.7
+H (18).jpg,Lettuce disease\Healthy\H (18).jpg,Healthy,Potassium Deficiency,0.5661
+H (2).jpg,Lettuce disease\Healthy\H (2).jpg,Healthy,Healthy,0.2526
+H (3).jpg,Lettuce disease\Healthy\H (3).jpg,Healthy,No Detection,0.0
+H (4).jpg,Lettuce disease\Healthy\H (4).jpg,Healthy,Magnesium Deficiency,0.3758
+H (5).jpg,Lettuce disease\Healthy\H (5).jpg,Healthy,Healthy,0.6658
+H (51).jpg,Lettuce disease\Healthy\H (51).jpg,Healthy,No Detection,0.0
+H (6).jpg,Lettuce disease\Healthy\H (6).jpg,Healthy,Healthy,0.6039
+H (7).jpg,Lettuce disease\Healthy\H (7).jpg,Healthy,Healthy,0.6128
+H (8).jpg,Lettuce disease\Healthy\H (8).jpg,Healthy,Magnesium Deficiency,0.7449
+H (9).jpg,Lettuce disease\Healthy\H (9).jpg,Healthy,Healthy,0.8424
+H.jpeg,Lettuce disease\Healthy\H.jpeg,Healthy,Healthy,0.8558
+H.jpg,Lettuce disease\Healthy\H.jpg,Healthy,Healthy,0.618
+H11.jpg,Lettuce disease\Healthy\H11.jpg,Healthy,Healthy,0.7058
+H111.jpeg,Lettuce disease\Healthy\H111.jpeg,Healthy,No Detection,0.0
+H11111.jpeg,Lettuce disease\Healthy\H11111.jpeg,Healthy,Magnesium Deficiency,0.2963
+H111111.jpeg,Lettuce disease\Healthy\H111111.jpeg,Healthy,Nitrogen Deficiency,0.27
+H1111111.jpeg,Lettuce disease\Healthy\H1111111.jpeg,Healthy,Healthy,0.2827
+H12.jpg,Lettuce disease\Healthy\H12.jpg,Healthy,Potassium Deficiency,0.3251
+H131.jpeg,Lettuce disease\Healthy\H131.jpeg,Healthy,Nitrogen Deficiency,0.4134
+H1311.jpeg,Lettuce disease\Healthy\H1311.jpeg,Healthy,Healthy,0.8744
+H13111.jpeg,Lettuce disease\Healthy\H13111.jpeg,Healthy,Potassium Deficiency,0.592
+H212.jpeg,Lettuce disease\Healthy\H212.jpeg,Healthy,Potassium Deficiency,0.6556
+H2122.jpeg,Lettuce disease\Healthy\H2122.jpeg,Healthy,No Detection,0.0
+H222.jpeg,Lettuce disease\Healthy\H222.jpeg,Healthy,Healthy,0.4479
+H3.jpg,Lettuce disease\Healthy\H3.jpg,Healthy,Healthy,0.8157
+H311.jpeg,Lettuce disease\Healthy\H311.jpeg,Healthy,Potassium Deficiency,0.3873
+H321.jpeg,Lettuce disease\Healthy\H321.jpeg,Healthy,Healthy,0.5942
+H412.jpeg,Lettuce disease\Healthy\H412.jpeg,Healthy,Potassium Deficiency,0.8798
+HH.jpeg,Lettuce disease\Healthy\HH.jpeg,Healthy,Healthy,0.8768
+HH0.jpeg,Lettuce disease\Healthy\HH0.jpeg,Healthy,Potassium Deficiency,0.7107
+HH1.jpeg,Lettuce disease\Healthy\HH1.jpeg,Healthy,Potassium Deficiency,0.6799
+HHH.jpeg,Lettuce disease\Healthy\HHH.jpeg,Healthy,Potassium Deficiency,0.3873
+HHH1.jpeg,Lettuce disease\Healthy\HHH1.jpeg,Healthy,Nitrogen Deficiency,0.5112
+HHHH.jpeg,Lettuce disease\Healthy\HHHH.jpeg,Healthy,Potassium Deficiency,0.5203
+HHL1.jpeg,Lettuce disease\Healthy\HHL1.jpeg,Healthy,Potassium Deficiency,0.7419
+HHL12.jpeg,Lettuce disease\Healthy\HHL12.jpeg,Healthy,Potassium Deficiency,0.7172
+HL.jpeg,Lettuce disease\Healthy\HL.jpeg,Healthy,Healthy,0.8055
+HL1.jpeg,Lettuce disease\Healthy\HL1.jpeg,Healthy,Healthy,0.6856
+HL11111.jpeg,Lettuce disease\Healthy\HL11111.jpeg,Healthy,Potassium Deficiency,0.7979
+HL13.jpeg,Lettuce disease\Healthy\HL13.jpeg,Healthy,Potassium Deficiency,0.7461
+HL2.jpeg,Lettuce disease\Healthy\HL2.jpeg,Healthy,Healthy,0.8679
+HL2122.jpeg,Lettuce disease\Healthy\HL2122.jpeg,Healthy,No Detection,0.0
+HL3.jpeg,Lettuce disease\Healthy\HL3.jpeg,Healthy,Potassium Deficiency,0.8147
+HLL.jpg,Lettuce disease\Healthy\HLL.jpg,Healthy,Healthy,0.4641
+HT.jpeg,Lettuce disease\Healthy\HT.jpeg,Healthy,Healthy,0.2827
+HT1.jpeg,Lettuce disease\Healthy\HT1.jpeg,Healthy,Potassium Deficiency,0.8147
+HT2.jpeg,Lettuce disease\Healthy\HT2.jpeg,Healthy,Healthy,0.813
+HT3.jpeg,Lettuce disease\Healthy\HT3.jpeg,Healthy,Potassium Deficiency,0.802
+HT4.jpeg,Lettuce disease\Healthy\HT4.jpeg,Healthy,No Detection,0.0
+HT5.jpeg,Lettuce disease\Healthy\HT5.jpeg,Healthy,No Detection,0.0
+HT6.jpeg,Lettuce disease\Healthy\HT6.jpeg,Healthy,Potassium Deficiency,0.5988
+HT7.jpeg,Lettuce disease\Healthy\HT7.jpeg,Healthy,Magnesium Deficiency,0.3343
+HT8.jpeg,Lettuce disease\Healthy\HT8.jpeg,Healthy,Potassium Deficiency,0.9304
+HT9.jpeg,Lettuce disease\Healthy\HT9.jpeg,Healthy,Potassium Deficiency,0.7107
+IMG20251222130237.jpg,Lettuce disease\K Deficient\IMG20251222130237.jpg,K Deficient,Healthy,0.7956
+IMG20251222130242.jpg,Lettuce disease\K Deficient\IMG20251222130242.jpg,K Deficient,Magnesium Deficiency,0.3209
+IMG_20251222_202110.jpg,Lettuce disease\K Deficient\IMG_20251222_202110.jpg,K Deficient,No Detection,0.0
+IMG_20251222_202141.jpg,Lettuce disease\K Deficient\IMG_20251222_202141.jpg,K Deficient,Potassium Deficiency,0.3133
+IMG_20260105_140529.jpg,Lettuce disease\K Deficient\IMG_20260105_140529.jpg,K Deficient,Magnesium Deficiency,0.266
+IMG_20260105_140550.jpg,Lettuce disease\K Deficient\IMG_20260105_140550.jpg,K Deficient,No Detection,0.0
+IMG_20260105_140613.jpg,Lettuce disease\K Deficient\IMG_20260105_140613.jpg,K Deficient,Healthy,0.6924
+IMG_20260105_140628.jpg,Lettuce disease\K Deficient\IMG_20260105_140628.jpg,K Deficient,Healthy,0.3063
+IMG_20260105_140701.jpg,Lettuce disease\K Deficient\IMG_20260105_140701.jpg,K Deficient,Magnesium Deficiency,0.4192
+IMG_20260105_140726.jpg,Lettuce disease\K Deficient\IMG_20260105_140726.jpg,K Deficient,Potassium Deficiency,0.5136
+IMG_20260105_140751.jpg,Lettuce disease\K Deficient\IMG_20260105_140751.jpg,K Deficient,Magnesium Deficiency,0.7562
+IMG_20260105_140826.jpg,Lettuce disease\K Deficient\IMG_20260105_140826.jpg,K Deficient,Potassium Deficiency,0.6758
+IMG_20260105_140838.jpg,Lettuce disease\K Deficient\IMG_20260105_140838.jpg,K Deficient,No Detection,0.0
+IMG_20260105_140925.jpg,Lettuce disease\K Deficient\IMG_20260105_140925.jpg,K Deficient,Magnesium Deficiency,0.2643
+IMG_20260105_142225.jpg,Lettuce disease\K Deficient\IMG_20260105_142225.jpg,K Deficient,Magnesium Deficiency,0.485
+IMG_20260105_142245.jpg,Lettuce disease\K Deficient\IMG_20260105_142245.jpg,K Deficient,Potassium Deficiency,0.6577
+K (15).jpg,Lettuce disease\K Deficient\K (15).jpg,K Deficient,No Detection,0.0
+K (16).jpg,Lettuce disease\K Deficient\K (16).jpg,K Deficient,No Detection,0.0
+K (2).jpg,Lettuce disease\K Deficient\K (2).jpg,K Deficient,Magnesium Deficiency,0.5471
+K (3).jpg,Lettuce disease\K Deficient\K (3).jpg,K Deficient,Potassium Deficiency,0.8177
+K (4).jpg,Lettuce disease\K Deficient\K (4).jpg,K Deficient,Healthy,0.6317
+K (5).jpg,Lettuce disease\K Deficient\K (5).jpg,K Deficient,No Detection,0.0
+K (6).jpg,Lettuce disease\K Deficient\K (6).jpg,K Deficient,No Detection,0.0
+K (61).jpg,Lettuce disease\K Deficient\K (61).jpg,K Deficient,No Detection,0.0
+K (62).jpg,Lettuce disease\K Deficient\K (62).jpg,K Deficient,Magnesium Deficiency,0.2719
+K (621).jpg,Lettuce disease\K Deficient\K (621).jpg,K Deficient,Magnesium Deficiency,0.2796
+K (7).jpg,Lettuce disease\K Deficient\K (7).jpg,K Deficient,Healthy,0.679
+K (8).jpg,Lettuce disease\K Deficient\K (8).jpg,K Deficient,Healthy,0.4363
+K (9).jpg,Lettuce disease\K Deficient\K (9).jpg,K Deficient,Potassium Deficiency,0.7885
+K.jpeg,Lettuce disease\K Deficient\K.jpeg,K Deficient,Healthy,0.347
+K.jpg,Lettuce disease\K Deficient\K.jpg,K Deficient,Potassium Deficiency,0.293
+K021.jpeg,Lettuce disease\K Deficient\K021.jpeg,K Deficient,Healthy,0.807
+K1.jpg,Lettuce disease\K Deficient\K1.jpg,K Deficient,Potassium Deficiency,0.5332
+K10.jpg,Lettuce disease\K Deficient\K10.jpg,K Deficient,No Detection,0.0
+K101.jpg,Lettuce disease\K Deficient\K101.jpg,K Deficient,Potassium Deficiency,0.3256
+K1012.jpg,Lettuce disease\K Deficient\K1012.jpg,K Deficient,Healthy,0.5152
+K1101.jpeg,Lettuce disease\K Deficient\K1101.jpeg,K Deficient,Healthy,0.4674
+K1102.jpeg,Lettuce disease\K Deficient\K1102.jpeg,K Deficient,Magnesium Deficiency,0.351
+K111.jpeg,Lettuce disease\K Deficient\K111.jpeg,K Deficient,Healthy,0.4756
+K1111.jpeg,Lettuce disease\K Deficient\K1111.jpeg,K Deficient,Potassium Deficiency,0.8222
+K11112.jpeg,Lettuce disease\K Deficient\K11112.jpeg,K Deficient,Potassium Deficiency,0.5676
+K112.jpeg,Lettuce disease\K Deficient\K112.jpeg,K Deficient,Magnesium Deficiency,0.811
+K112.jpg,Lettuce disease\K Deficient\K112.jpg,K Deficient,Healthy,0.4558
+K12.jpeg,Lettuce disease\K Deficient\K12.jpeg,K Deficient,Magnesium Deficiency,0.7106
+K121.jpeg,Lettuce disease\K Deficient\K121.jpeg,K Deficient,Healthy,0.5493
+K121.jpg,Lettuce disease\K Deficient\K121.jpg,K Deficient,Healthy,0.8708
+K123.jpeg,Lettuce disease\K Deficient\K123.jpeg,K Deficient,Potassium Deficiency,0.4274
+K13.jpg,Lettuce disease\K Deficient\K13.jpg,K Deficient,No Detection,0.0
+K131.jpeg,Lettuce disease\K Deficient\K131.jpeg,K Deficient,Potassium Deficiency,0.6624
+K14.jpg,Lettuce disease\K Deficient\K14.jpg,K Deficient,Potassium Deficiency,0.5329
+K15.jpg,Lettuce disease\K Deficient\K15.jpg,K Deficient,Potassium Deficiency,0.6762
+K2.jpg,Lettuce disease\K Deficient\K2.jpg,K Deficient,Healthy,0.7111
+K21.jpeg,Lettuce disease\K Deficient\K21.jpeg,K Deficient,Magnesium Deficiency,0.7978
+K21.jpg,Lettuce disease\K Deficient\K21.jpg,K Deficient,Healthy,0.8708
+K211.jpeg,Lettuce disease\K Deficient\K211.jpeg,K Deficient,Healthy,0.7952
+K211.jpg,Lettuce disease\K Deficient\K211.jpg,K Deficient,Magnesium Deficiency,0.6197
+K22.jpeg,Lettuce disease\K Deficient\K22.jpeg,K Deficient,Potassium Deficiency,0.8587
+K222.jpeg,Lettuce disease\K Deficient\K222.jpeg,K Deficient,Magnesium Deficiency,0.3628
+K3.jpg,Lettuce disease\K Deficient\K3.jpg,K Deficient,Healthy,0.8257
+K3111.jpeg,Lettuce disease\K Deficient\K3111.jpeg,K Deficient,Healthy,0.6892
+K312.jpeg,Lettuce disease\K Deficient\K312.jpeg,K Deficient,Healthy,0.9102
+K33.jpeg,Lettuce disease\K Deficient\K33.jpeg,K Deficient,Magnesium Deficiency,0.797
+K33333.jpeg,Lettuce disease\K Deficient\K33333.jpeg,K Deficient,Healthy,0.8729
+K4.jpg,Lettuce disease\K Deficient\K4.jpg,K Deficient,Healthy,0.8376
+K5.jpg,Lettuce disease\K Deficient\K5.jpg,K Deficient,Healthy,0.4431
+KK.jpeg,Lettuce disease\K Deficient\KK.jpeg,K Deficient,Potassium Deficiency,0.2564
+N (051).jpg,Lettuce disease\N Deficient\N (051).jpg,N Deficient,Potassium Deficiency,0.4923
+N (10).jpg,Lettuce disease\N Deficient\N (10).jpg,N Deficient,Healthy,0.6306
+N (1006).jpg,Lettuce disease\N Deficient\N (1006).jpg,N Deficient,Healthy,0.7299
+N (102).jpg,Lettuce disease\N Deficient\N (102).jpg,N Deficient,Healthy,0.6572
+N (1020).jpg,Lettuce disease\N Deficient\N (1020).jpg,N Deficient,Healthy,0.7139
+N (106).jpg,Lettuce disease\N Deficient\N (106).jpg,N Deficient,Nitrogen Deficiency,0.4779
+N (1060).jpg,Lettuce disease\N Deficient\N (1060).jpg,N Deficient,Phosphorus Deficiency,0.4535
+N (108).jpg,Lettuce disease\N Deficient\N (108).jpg,N Deficient,No Detection,0.0
+N (11).jpg,Lettuce disease\N Deficient\N (11).jpg,N Deficient,Healthy,0.7361
+N (1118).jpg,Lettuce disease\N Deficient\N (1118).jpg,N Deficient,Magnesium Deficiency,0.538
+N (118).jpg,Lettuce disease\N Deficient\N (118).jpg,N Deficient,Magnesium Deficiency,0.3017
+N (12).jpg,Lettuce disease\N Deficient\N (12).jpg,N Deficient,Healthy,0.8937
+N (14).jpg,Lettuce disease\N Deficient\N (14).jpg,N Deficient,Healthy,0.9178
+N (15).jpg,Lettuce disease\N Deficient\N (15).jpg,N Deficient,Magnesium Deficiency,0.5455
+N (151).jpg,Lettuce disease\N Deficient\N (151).jpg,N Deficient,Potassium Deficiency,0.857
+N (16).jpg,Lettuce disease\N Deficient\N (16).jpg,N Deficient,Healthy,0.8906
+N (17).jpg,Lettuce disease\N Deficient\N (17).jpg,N Deficient,Healthy,0.9099
+N (18).jpg,Lettuce disease\N Deficient\N (18).jpg,N Deficient,Magnesium Deficiency,0.7593
+N (2).jpg,Lettuce disease\N Deficient\N (2).jpg,N Deficient,Potassium Deficiency,0.6667
+N (21).jpg,Lettuce disease\N Deficient\N (21).jpg,N Deficient,Healthy,0.8934
+N (212).jpg,Lettuce disease\N Deficient\N (212).jpg,N Deficient,Potassium Deficiency,0.8992
+N (22).jpg,Lettuce disease\N Deficient\N (22).jpg,N Deficient,Healthy,0.7136
+N (3).jpg,Lettuce disease\N Deficient\N (3).jpg,N Deficient,Potassium Deficiency,0.6808
+N (4).jpg,Lettuce disease\N Deficient\N (4).jpg,N Deficient,Healthy,0.6113
+N (41).jpg,Lettuce disease\N Deficient\N (41).jpg,N Deficient,Healthy,0.7677
+N (5).jpg,Lettuce disease\N Deficient\N (5).jpg,N Deficient,Healthy,0.7285
+N (8).jpg,Lettuce disease\N Deficient\N (8).jpg,N Deficient,Phosphorus Deficiency,0.3825
+N -0.jpeg,Lettuce disease\N Deficient\N -0.jpeg,N Deficient,No Detection,0.0
+N-1.jpeg,Lettuce disease\N Deficient\N-1.jpeg,N Deficient,No Detection,0.0
+N-2.jpeg,Lettuce disease\N Deficient\N-2.jpeg,N Deficient,Potassium Deficiency,0.3768
+N-3.jpeg,Lettuce disease\N Deficient\N-3.jpeg,N Deficient,Magnesium Deficiency,0.5885
+N-4.jpeg,Lettuce disease\N Deficient\N-4.jpeg,N Deficient,Potassium Deficiency,0.7115
+N-5.jpeg,Lettuce disease\N Deficient\N-5.jpeg,N Deficient,Potassium Deficiency,0.5198
+N.jpg,Lettuce disease\N Deficient\N.jpg,N Deficient,Healthy,0.7285
+N1.jpg,Lettuce disease\N Deficient\N1.jpg,N Deficient,Potassium Deficiency,0.857
+N12.jpg,Lettuce disease\N Deficient\N12.jpg,N Deficient,Potassium Deficiency,0.8848
+W ().jpg,Lettuce disease\Wilt fungal\W ().jpg,Wilt fungal,Healthy,0.8591
+W (10).jpg,Lettuce disease\Wilt fungal\W (10).jpg,Wilt fungal,Potassium Deficiency,0.4617
+W (101).jpg,Lettuce disease\Wilt fungal\W (101).jpg,Wilt fungal,Potassium Deficiency,0.6465
+W (102).jpg,Lettuce disease\Wilt fungal\W (102).jpg,Wilt fungal,Potassium Deficiency,0.6465
+W (11).jpg,Lettuce disease\Wilt fungal\W (11).jpg,Wilt fungal,Potassium Deficiency,0.7707
+W (12).jpg,Lettuce disease\Wilt fungal\W (12).jpg,Wilt fungal,Healthy,0.5466
+W (13).jpg,Lettuce disease\Wilt fungal\W (13).jpg,Wilt fungal,Healthy,0.6146
+W (14).jpg,Lettuce disease\Wilt fungal\W (14).jpg,Wilt fungal,Potassium Deficiency,0.7956
+W (15).jpg,Lettuce disease\Wilt fungal\W (15).jpg,Wilt fungal,Potassium Deficiency,0.3398
+W (16).jpg,Lettuce disease\Wilt fungal\W (16).jpg,Wilt fungal,No Detection,0.0
+W (17).jpg,Lettuce disease\Wilt fungal\W (17).jpg,Wilt fungal,Healthy,0.5048
+W (18).jpg,Lettuce disease\Wilt fungal\W (18).jpg,Wilt fungal,No Detection,0.0
+W (2).jpeg,Lettuce disease\Wilt fungal\W (2).jpeg,Wilt fungal,No Detection,0.0
+W (2).jpg,Lettuce disease\Wilt fungal\W (2).jpg,Wilt fungal,Potassium Deficiency,0.6615
+W (3).jpg,Lettuce disease\Wilt fungal\W (3).jpg,Wilt fungal,Healthy,0.6495
+W (4).jpg,Lettuce disease\Wilt fungal\W (4).jpg,Wilt fungal,No Detection,0.0
+W (5).jpg,Lettuce disease\Wilt fungal\W (5).jpg,Wilt fungal,Potassium Deficiency,0.852
+W (6).jpg,Lettuce disease\Wilt fungal\W (6).jpg,Wilt fungal,Potassium Deficiency,0.5616
+W (7).jpg,Lettuce disease\Wilt fungal\W (7).jpg,Wilt fungal,Potassium Deficiency,0.2887
+W (8).jpg,Lettuce disease\Wilt fungal\W (8).jpg,Wilt fungal,No Detection,0.0
+W (9).jpg,Lettuce disease\Wilt fungal\W (9).jpg,Wilt fungal,Nitrogen Deficiency,0.7795
+W.jpeg,Lettuce disease\Wilt fungal\W.jpeg,Wilt fungal,No Detection,0.0
+W.jpg,Lettuce disease\Wilt fungal\W.jpg,Wilt fungal,Potassium Deficiency,0.9148
+W1.jpeg,Lettuce disease\Wilt fungal\W1.jpeg,Wilt fungal,Magnesium Deficiency,0.4615
+W21.jpeg,Lettuce disease\Wilt fungal\W21.jpeg,Wilt fungal,No Detection,0.0
+WF.jpeg,Lettuce disease\Wilt fungal\WF.jpeg,Wilt fungal,Phosphorus Deficiency,0.3688
+WF1.jpeg,Lettuce disease\Wilt fungal\WF1.jpeg,Wilt fungal,Healthy,0.2941
+WF2.jpeg,Lettuce disease\Wilt fungal\WF2.jpeg,Wilt fungal,No Detection,0.0
+WF3.jpeg,Lettuce disease\Wilt fungal\WF3.jpeg,Wilt fungal,Potassium Deficiency,0.5649
+WF4.jpeg,Lettuce disease\Wilt fungal\WF4.jpeg,Wilt fungal,Healthy,0.708
+WF5.jpeg,Lettuce disease\Wilt fungal\WF5.jpeg,Wilt fungal,Phosphorus Deficiency,0.7284
+WF51.jpeg,Lettuce disease\Wilt fungal\WF51.jpeg,Wilt fungal,Phosphorus Deficiency,0.7649
+WF52.jpeg,Lettuce disease\Wilt fungal\WF52.jpeg,Wilt fungal,No Detection,0.0
+WF53.jpeg,Lettuce disease\Wilt fungal\WF53.jpeg,Wilt fungal,Phosphorus Deficiency,0.252
+WF6.jpeg,Lettuce disease\Wilt fungal\WF6.jpeg,Wilt fungal,Potassium Deficiency,0.8737
+WF61.jpeg,Lettuce disease\Wilt fungal\WF61.jpeg,Wilt fungal,Healthy,0.7636
+WF62.jpeg,Lettuce disease\Wilt fungal\WF62.jpeg,Wilt fungal,Healthy,0.7605
+WT.jpg,Lettuce disease\Wilt fungal\WT.jpg,Wilt fungal,Potassium Deficiency,0.7956
+WT1.jpg,Lettuce disease\Wilt fungal\WT1.jpg,Wilt fungal,Potassium Deficiency,0.3398
+WT2.jpg,Lettuce disease\Wilt fungal\WT2.jpg,Wilt fungal,No Detection,0.0
+WT3.jpg,Lettuce disease\Wilt fungal\WT3.jpg,Wilt fungal,Healthy,0.5048
+WT4.jpg,Lettuce disease\Wilt fungal\WT4.jpg,Wilt fungal,No Detection,0.0
+WT5.jpg,Lettuce disease\Wilt fungal\WT5.jpg,Wilt fungal,Healthy,0.8591
+WT6.jpg,Lettuce disease\Wilt fungal\WT6.jpg,Wilt fungal,Healthy,0.4038
+WT7.jpg,Lettuce disease\Wilt fungal\WT7.jpg,Wilt fungal,Healthy,0.6146

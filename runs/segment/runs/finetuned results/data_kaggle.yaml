@@ -1,0 +1,12 @@
+path: /kaggle/input/datasets/manikandaprabu2005/hydroponics/combined_dataset_final
+train: train/images
+val: valid/images
+test: test/images
+nc: 6
+names:
+  0: Calcium Deficiency
+  1: Healthy
+  2: Magnesium Deficiency
+  3: Nitrogen Deficiency
+  4: Phosphorus Deficiency
+  5: Potassium Deficiency

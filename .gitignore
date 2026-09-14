@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+__pycache__/
+*.zip
+outputs/
+models/
+combined_dataset_final/
+deficiency datasets/
+unseen_predictions_baseline/predictions/
+unseen_predictions_combined_baseline/predictions/
+unseen_predictions_finetuned/predictions/
+unseen_test/
+*.pt
